@@ -1,6 +1,6 @@
 # Site settings
 title: december-man # 你的博客名字，可以定义修订
-header-img: "img/green.jpg"
+header-img: "img/background.jpg"
 tagline: "cn"  
 description: "用文字记录自己的成长"  # 一句话描述你的博客
 baseurl: ""
@@ -13,8 +13,8 @@ owner:
   bio: "爱思考，爱总结" # 填写作者信息：博客描述
 
 # Data
-gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
-favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
+gavatar: img/book.png # 浏览器地址栏小图标，可自定义更改
+favicon: img/book.png # 浏览器地址栏小图标，可自定义更改
 
 douban_username:  # 你的豆瓣id
 twitter_username: 
