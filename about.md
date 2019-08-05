@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "一个从2019年开始写作的人" 
 header-img: "img/green.jpg"
 ---
 
