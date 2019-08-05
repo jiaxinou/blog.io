@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "一个从2019年开始写作的人" 
-header-img: "img/green.jpg"
+description: "love and share" 
+header-img: "img/background.jpg"
 ---
 
-这一页填写你的自我介绍。
+还没想好怎么介绍自己
 
 
 
