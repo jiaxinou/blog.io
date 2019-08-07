@@ -6,6 +6,8 @@ header-img: "img/background.jpg"
 
 ---
 
+---
+
 #本页使用方法#
 
 1. 在下面选一个你喜欢的词
